@@ -6,4 +6,4 @@ A bot framework for any platform!
 ### Source code: [src]
 ## You can create a Issue from github
 
-(src)[https://gitlab.lama3l9r.net/lama/josephbot-homebase]
+[src](https://gitlab.lama3l9r.net/lama/josephbot-homebase)
